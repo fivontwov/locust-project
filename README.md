@@ -5,7 +5,7 @@
 spring.datasource.username= root
 spring.datasource.password=
 
-#run locust to test
+# run locust to test
 -  Post signin user
 POST http://localhost:8080/api/auth/signin
 {
