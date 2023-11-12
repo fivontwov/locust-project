@@ -15,7 +15,7 @@ POST http://localhost:8080/api/auth/signin
 
 -  run in httpsClass.py in pyCharmProject by command line:
 locust -f httpsClass.py
--  open locust interface to test in http://localhost:8089/. You can choose Number of users, Spawn rate.
+-  open locust interface to test in http://localhost:8089/. You can set Number of users, Spawn rate.
 Host will have in default
 
 
